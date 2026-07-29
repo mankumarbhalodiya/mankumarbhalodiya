@@ -57,37 +57,22 @@
 ### 🤖 AI Voice Assistant
 > Python • Speech Recognition
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:manbhalodiya0@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" />
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/mankumar-bhalodiya">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
 </p>
 
+**📧 Email:** manbhalodiya0@gmail.com
+
+**💼 LinkedIn:** https://www.linkedin.com/in/mankumar-bhalodiya
 ---
 
 ## 💡 Quote
