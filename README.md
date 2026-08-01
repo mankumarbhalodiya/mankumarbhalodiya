@@ -102,9 +102,3 @@ Desktop voice assistant using speech recognition and automation.
 ## 💡 Quote
 
 > **"Code. Learn. Build. Repeat."**
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mankumarbhalodiya&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
