@@ -15,14 +15,15 @@ B.Tech ICT Student • Full Stack Developer • Laravel & Python Enthusiast
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mankumarbhalodiya&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mankumarbhalodiya?label=FOLLOWERS&style=for-the-badge&color=181717" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/mankumarbhalodiya?affiliations=OWNER&label=STARS&style=for-the-badge&color=f39c12" alt="Stars" />
-  <img src="https://img.shields.io/badge/Open%20To-INTERNSHIPS-brightgreen?style=for-the-badge" alt="Open to Internships" />
+  <img src="https://komarev.com/ghpvc/?username=mankumarbhalodiya&label=PROFILE%20VIEWS&color=0EA5E9&style=for-the-badge" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/mankumarbhalodiya?label=FOLLOWERS&style=for-the-badge&color=8B5CF6&logo=github&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/mankumarbhalodiya?affiliations=OWNER&label=STARS&style=for-the-badge&color=F59E0B" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-INTERNSHIPS-22C55E?style=for-the-badge" />
 </p>
-
 ---
 
 # 👨‍💻 About Me
