@@ -17,15 +17,10 @@ B.Tech ICT Student • Full Stack Developer • Laravel & Python Enthusiast
 ---
 
 <p align="center">
-
-![](https://komarev.com/ghpvc/?username=mankumarbhalodiya&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
-
-![](https://img.shields.io/github/followers/mankumarbhalodiya?style=for-the-badge)
-
-![](https://img.shields.io/github/stars/mankumarbhalodiya?affiliations=OWNER&style=for-the-badge)
-
-![](https://img.shields.io/badge/Open%20To-Internships-brightgreen?style=for-the-badge)
-
+  <img src="https://komarev.com/ghpvc/?username=mankumarbhalodiya&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mankumarbhalodiya?label=FOLLOWERS&style=for-the-badge&color=181717" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/mankumarbhalodiya?affiliations=OWNER&label=STARS&style=for-the-badge&color=f39c12" alt="Stars" />
+  <img src="https://img.shields.io/badge/Open%20To-INTERNSHIPS-brightgreen?style=for-the-badge" alt="Open to Internships" />
 </p>
 
 ---
@@ -39,7 +34,6 @@ B.Tech ICT Student • Full Stack Developer • Laravel & Python Enthusiast
 - 🎯 Aspiring Software Engineer
 - ❤️ Love Building Real World Projects
 
-
 ## 🚀 Tech Stack
 
 ### Languages
@@ -51,13 +45,13 @@ B.Tech ICT Student • Full Stack Developer • Laravel & Python Enthusiast
 ### Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap" />
 </p>
 
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Tools
@@ -87,7 +81,6 @@ Desktop voice assistant using speech recognition and automation.
 
 ---
 
-
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -97,3 +90,20 @@ Desktop voice assistant using speech recognition and automation.
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mankumar-bhalodiya">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+</p>
+
+- 📧 **Email:** manbhalodiya0@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mankumar-bhalodiya
+
+---
+
+## 💡 Quote
+
+> **"Code. Learn. Build. Repeat."**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mankumarbhalodiya&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
