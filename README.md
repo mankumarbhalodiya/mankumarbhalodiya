@@ -39,168 +39,61 @@ B.Tech ICT Student • Full Stack Developer • Laravel & Python Enthusiast
 - 🎯 Aspiring Software Engineer
 - ❤️ Love Building Real World Projects
 
----
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-## 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,html,css" />
-</p>
-
-## ⚙️ Frameworks
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,html,css" />
 </p>
 
-## 🗄️ Database
+### Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,bootstrap,tailwind" />
 </p>
 
-## 🛠️ Tools
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📂 Featured Projects
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mankumarbhalodiya&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mankumarbhalodiya&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mankumarbhalodiya&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mankumarbhalodiya&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mankumarbhalodiya&theme=algolia&row=1&column=6"/>
-
-</p>
-
----
-
-# 📂 Featured Projects
-
-## 🏨 Hostel Management System
-
+### 🏨 Hostel Management System
 **PHP • MySQL**
 
-✔ Student Management
+Hostel management system with student, room and payment management.
 
-✔ Room Allocation
-
-✔ Payment Management
-
-✔ Admin Dashboard
-
----
-
-## 📅 Reminder Calendar
-
+### 📅 Reminder Calendar
 **Laravel • Livewire • FullCalendar**
 
-✔ Organization Based Calendar
+Organization-based reminder calendar with color-coded events.
 
-✔ Color-coded Events
-
-✔ Smart Reminder Management
-
----
-
-## 🤖 AI Voice Assistant
-
+### 🤖 AI Voice Assistant
 **Python**
 
-✔ Speech Recognition
-
-✔ Voice Commands
-
-✔ Desktop Automation
+Desktop voice assistant using speech recognition and automation.
 
 ---
 
-## 📚 Student Management System
 
-**Laravel**
+## 🌐 Connect with Me
 
-✔ CRUD Operations
-
-✔ Authentication
-
-✔ MySQL Database
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:manbhalodiya0@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/mankumar-bhalodiya">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/mankumarbhalodiya">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-<p align="center">
-
-> **Code. Learn. Build. Repeat. 🚀**
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile! ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-
-</p>
+<p align="left">
+  <a href="mailto:manbhalodiya0@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mankumar-bhalodiya">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
