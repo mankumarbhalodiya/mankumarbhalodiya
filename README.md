@@ -1,8 +1,5 @@
 <!-- ===================== Banner ===================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Man%20Bhalodiya&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Man Bhalodiya</h1>
 
