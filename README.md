@@ -1,3 +1,14 @@
+<!-- ===================== Banner ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Man%20Bhalodiya&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Man Bhalodiya</h1>
+
+<h3 align="center">
+B.Tech ICT Student • Full Stack Developer • Laravel & Python Enthusiast
+</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Full+Stack+Developer;Laravel+Developer;Python+Programmer;Always+Learning+New+Things!" />
@@ -5,15 +16,14 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mankumarbhalodiya&label=PROFILE%20VIEWS&color=0EA5E9&style=for-the-badge" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/mankumarbhalodiya?label=FOLLOWERS&style=for-the-badge&color=8B5CF6&logo=github&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/mankumarbhalodiya?affiliations=OWNER&label=STARS&style=for-the-badge&color=F59E0B" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-INTERNSHIPS-22C55E?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=mankumarbhalodiya&label=PROFILE%20VIEWS&color=0E75B6&style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/mankumarbhalodiya?label=FOLLOWERS&style=for-the-badge&color=24292E&logo=github" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/mankumarbhalodiya?affiliations=OWNER&label=STARS&style=for-the-badge&color=F39C12" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-INTERNSHIPS-2ECC71?style=for-the-badge" />
 </p>
----
 
 # 👨‍💻 About Me
 
